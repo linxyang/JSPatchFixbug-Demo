@@ -1,0 +1,9 @@
+platform :ios, "7.0"
+
+target :'timeLineCellList' do
+    
+pod 'Masonry'
+pod 'SDWebImage'
+pod 'JSPatch', '~> 1.1'
+
+end
